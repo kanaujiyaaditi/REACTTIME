@@ -7,15 +7,15 @@ const TimelineItem =({data}) =>(
 
             <div className="timeline-item-content">
                 <span className='tag' style={{ background: data.id }}> </span>
-                <h1 className="timeline-item-content">{data.date}</h1>
+                <h1 className="date">{data.date}</h1>
 
                 <h3>{data.title}</h3>
-                <p>_____________________</p>
+                <p>___________________</p>
                 <p> {data.description} </p>
                 <span className="circle "></span>
                 <span className="circle1 "></span>
                 <div className="circle">
-                    <h1>{data.Image}</h1></div>
+                    <span>{data.link}</span></div>
             </div>
 
         </div>

@@ -5,9 +5,9 @@ const timelinedata=[
         location: "Lucknow, Uttar Pradesh",
         description:"Currently persuing Btech in Computer Science and Teachnology from Lucknow University, 3rd Year - 5th Semester",
         buttonText: "About College",
-        date: "December 2020 - present",
+        date: "December 2020 ",
         icon: "work",
-      Image: "b.jpeg",
+     link:""
       },
       {
         id: 2,
@@ -16,8 +16,7 @@ const timelinedata=[
         buttonText: "View Open Source Projects",
         date: "September 2022",
         icon: "work",
-        link:"https://github.com/kanaujiyaaditi?tab=repositories"
-      },
+link:"Lorem Ipsum is simply dummy text of the printing and typesetting industry."      },
       {
         id: 3,
         title: "Angular + NestJs",
@@ -25,8 +24,7 @@ const timelinedata=[
         buttonText: "Course Certificate",
         date: "August 2022",
         icon: "work",
-        link:"https://www.linkedin.com/posts/aditi-kanaujiya-311196209_angulardeveloper-angular-nestjs-activity-6983142518238404608-KpTU?utm_source=share&utm_medium=member_desktop"
-      },
+link:"Lorem Ipsum is simply dummy text of the printing and typesetting industry."      },
       {
         id: 4,
         title: "Java Certificate",
@@ -35,8 +33,7 @@ const timelinedata=[
         buttonText: "Course Certificate",
         date: "June 2022",
         icon: "work",
-        link: "https://www.linkedin.com/posts/aditi-kanaujiya-311196209_sololearn-javaprogramming-java-activity-6938335998095302656-Fqxl?utm_source=share&utm_medium=member_desktop"
-      },
+link:"Lorem Ipsum is simply dummy text of the printing and typesetting industry."      },
       {
         id: 5,
         title: "Rani Laxmi Bai Memorial School",
@@ -46,8 +43,7 @@ const timelinedata=[
         buttonText: "About School",
         date: "2018 - 2020",
         icon: "school",
-        link: "https://www.rlbschools.org"
-      },
+link:"Lorem Ipsum is simply dummy text of the printing and typesetting industry."      },
       {
         id: 6,
         title: "Rani Laxmi Bai Memorial School",
@@ -57,7 +53,6 @@ const timelinedata=[
         buttonText: "About School",
         date: "2016 - 2018",
         icon: "school",
-        link: "https://www.rlbschools.org"
-      },
+link:"Lorem Ipsum is simply dummy text of the printing and typesetting industry."      },
     ]
     export default timelinedata;
